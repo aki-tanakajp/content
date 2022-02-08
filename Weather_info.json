@@ -1,0 +1,24 @@
+{
+  "weatherinfo": [
+    {
+      "location": "Tokyo",
+      "weather": "晴れ"
+    },
+    {
+      "location": "New York",
+      "weather": "雨"
+     },
+    {
+      "location": "Paris",
+      "weather": "曇り"
+    }, 
+     {
+      "location": "London",
+      "weather": "晴れ時々曇り"
+    },
+     {
+      "location": "Beijing",
+      "weather": "雨"
+    }
+   ]
+}
